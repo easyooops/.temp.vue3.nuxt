@@ -1,11 +1,10 @@
-# Nuxt 3 Minimal Starter
-
-## git clone 후 서버 구동방법
+# git clone 후 서버 구동방법
 
 ```bash
 npm install
 ```
 
+파일이 이미 있다면 pass
 ```bash
 cp .env.example .env.development
 ```
@@ -25,6 +24,10 @@ npm run dev
 ---
 
 # 아래부터는 template에서 제공한 가이드 문서입니다.
+
+---
+
+# Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
