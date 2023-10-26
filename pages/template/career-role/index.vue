@@ -1,6 +1,6 @@
 <template>
     <div>
-        <SectionsCareerRoleSection1 />
+        <SectionsTemplateCareerRoleSection1 />
     </div>
 </template>
 

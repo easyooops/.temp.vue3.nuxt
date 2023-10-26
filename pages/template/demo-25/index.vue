@@ -1,25 +1,25 @@
 <template>
     <div>
-        <SectionsDemo25Section1 />
-        <SectionsDemo25Section2 />
-        <SectionsDemo25Section3 />
-        <SectionsDemo25Section4 />
-        <SectionsDemo25Section5 />
-        <SectionsDemo25Section6 />
-        <SectionsDemo25Section7 />
-        <SectionsDemo25Section8 />
-        <SectionsDemo25Section9 />
-        <SectionsDemo25Section10 />
-        <SectionsDemo25Section11 />
-        <SectionsDemo25Section12 />
-        <SectionsDemo25Section13 />
-        <SectionsDemo25Section14 />
-        <SectionsDemo25Section15 />
-        <SectionsDemo25Section16 />
-        <SectionsDemo25Section17 />
-        <SectionsDemo25Section18 />
-        <SectionsDemo25Section19 />
-        <SectionsDemo25Section20 />
+        <SectionsTemplateDemo25Section1 />
+        <SectionsTemplateDemo25Section2 />
+        <SectionsTemplateDemo25Section3 />
+        <SectionsTemplateDemo25Section4 />
+        <SectionsTemplateDemo25Section5 />
+        <SectionsTemplateDemo25Section6 />
+        <SectionsTemplateDemo25Section7 />
+        <SectionsTemplateDemo25Section8 />
+        <SectionsTemplateDemo25Section9 />
+        <SectionsTemplateDemo25Section10 />
+        <SectionsTemplateDemo25Section11 />
+        <SectionsTemplateDemo25Section12 />
+        <SectionsTemplateDemo25Section13 />
+        <SectionsTemplateDemo25Section14 />
+        <SectionsTemplateDemo25Section15 />
+        <SectionsTemplateDemo25Section16 />
+        <SectionsTemplateDemo25Section17 />
+        <SectionsTemplateDemo25Section18 />
+        <SectionsTemplateDemo25Section19 />
+        <SectionsTemplateDemo25Section20 />
     </div>
 </template>
 

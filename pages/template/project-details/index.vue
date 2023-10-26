@@ -1,7 +1,7 @@
 <template>
     <div>
-        <SectionsProjectDetailsSection1 />
-        <SectionsProjectDetailsSection2 />
+        <SectionsTemplateProjectDetailsSection1 />
+        <SectionsTemplateProjectDetailsSection2 />
     </div>
 </template>
 

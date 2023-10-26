@@ -1,10 +1,10 @@
 <template>
     <div>
-        <SectionsProjectsSection1 />
-        <SectionsProjectsSection2 />
-        <SectionsProjectsSection3 />
-        <SectionsProjectsSection4 />
-        <SectionsProjectsSection5 />
+        <SectionsTemplateProjectsSection1 />
+        <SectionsTemplateProjectsSection2 />
+        <SectionsTemplateProjectsSection3 />
+        <SectionsTemplateProjectsSection4 />
+        <SectionsTemplateProjectsSection5 />
     </div>
 </template>
 

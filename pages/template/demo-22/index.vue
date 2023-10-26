@@ -1,26 +1,26 @@
 <template>
     <div>
-        <SectionsDemo22Section1 />
-        <SectionsDemo22Section2 />
-        <SectionsDemo22Section3 />
-        <SectionsDemo22Section4 />
-        <SectionsDemo22Section5 />
-        <SectionsDemo22Section6 />
-        <SectionsDemo22Section7 />
-        <SectionsDemo22Section8 />
-        <SectionsDemo22Section9 />
-        <SectionsDemo22Section10 />
-        <SectionsDemo22Section11 />
-        <SectionsDemo22Section12 />
-        <SectionsDemo22Section13 />
-        <SectionsDemo22Section14 />
-        <SectionsDemo22Section15 />
-        <SectionsDemo22Section16 />
-        <SectionsDemo22Section17 />
-        <SectionsDemo22Section18 />
-        <SectionsDemo22Section19 />
-        <SectionsDemo22Section20 />        
-        <SectionsDemo22Section21 />        
+        <SectionsTemplateDemo22Section1 />
+        <SectionsTemplateDemo22Section2 />
+        <SectionsTemplateDemo22Section3 />
+        <SectionsTemplateDemo22Section4 />
+        <SectionsTemplateDemo22Section5 />
+        <SectionsTemplateDemo22Section6 />
+        <SectionsTemplateDemo22Section7 />
+        <SectionsTemplateDemo22Section8 />
+        <SectionsTemplateDemo22Section9 />
+        <SectionsTemplateDemo22Section10 />
+        <SectionsTemplateDemo22Section11 />
+        <SectionsTemplateDemo22Section12 />
+        <SectionsTemplateDemo22Section13 />
+        <SectionsTemplateDemo22Section14 />
+        <SectionsTemplateDemo22Section15 />
+        <SectionsTemplateDemo22Section16 />
+        <SectionsTemplateDemo22Section17 />
+        <SectionsTemplateDemo22Section18 />
+        <SectionsTemplateDemo22Section19 />
+        <SectionsTemplateDemo22Section20 />
+        <SectionsTemplateDemo22Section21 />
     </div>
 </template>
 

@@ -1,13 +1,13 @@
 <template>
     <div>
-        <SectionsIntegrationsSection1 />
-        <SectionsIntegrationsSection2 />
-        <SectionsIntegrationsSection3 />
-        <SectionsIntegrationsSection4 />
-        <SectionsIntegrationsSection5 />
-        <SectionsIntegrationsSection6 />
-        <SectionsIntegrationsSection7 />
-        <SectionsIntegrationsSection8 />
+        <SectionsTemplateIntegrationsSection1 />
+        <SectionsTemplateIntegrationsSection2 />
+        <SectionsTemplateIntegrationsSection3 />
+        <SectionsTemplateIntegrationsSection4 />
+        <SectionsTemplateIntegrationsSection5 />
+        <SectionsTemplateIntegrationsSection6 />
+        <SectionsTemplateIntegrationsSection7 />
+        <SectionsTemplateIntegrationsSection8 />
     </div>
 </template>
 

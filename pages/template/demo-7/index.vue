@@ -1,23 +1,23 @@
 <template>
     <div>
-        <SectionsDemo7Section1 />
-        <SectionsDemo7Section2 />
-        <SectionsDemo7Section3 />
-        <SectionsDemo7Section4 />
-        <SectionsDemo7Section5 />
-        <SectionsDemo7Section6 />
-        <SectionsDemo7Section7 />
-        <SectionsDemo7Section8 />
-        <SectionsDemo7Section9 />
-        <SectionsDemo7Section10 />
-        <SectionsDemo7Section11 />
-        <SectionsDemo7Section12 />
-        <SectionsDemo7Section13 />
-        <SectionsDemo7Section14 />
-        <SectionsDemo7Section15 />
-        <SectionsDemo7Section16 />
-        <SectionsDemo7Section17 />
-        <SectionsDemo7Section18 />
+        <SectionsTemplateDemo7Section1 />
+        <SectionsTemplateDemo7Section2 />
+        <SectionsTemplateDemo7Section3 />
+        <SectionsTemplateDemo7Section4 />
+        <SectionsTemplateDemo7Section5 />
+        <SectionsTemplateDemo7Section6 />
+        <SectionsTemplateDemo7Section7 />
+        <SectionsTemplateDemo7Section8 />
+        <SectionsTemplateDemo7Section9 />
+        <SectionsTemplateDemo7Section10 />
+        <SectionsTemplateDemo7Section11 />
+        <SectionsTemplateDemo7Section12 />
+        <SectionsTemplateDemo7Section13 />
+        <SectionsTemplateDemo7Section14 />
+        <SectionsTemplateDemo7Section15 />
+        <SectionsTemplateDemo7Section16 />
+        <SectionsTemplateDemo7Section17 />
+        <SectionsTemplateDemo7Section18 />
     </div>
 </template>
 

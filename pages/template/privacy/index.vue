@@ -1,6 +1,6 @@
 <template>
     <div>
-        <SectionsPrivacySection1 />
+        <SectionsTemplatePrivacySection1 />
     </div>
 </template>
 

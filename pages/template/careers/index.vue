@@ -1,12 +1,12 @@
 <template>
     <div>
-        <SectionsCareersSection1 />
-        <SectionsCareersSection2 />
-        <SectionsCareersSection3 />
-        <SectionsCareersSection4 />
-        <SectionsCareersSection5 />
-        <SectionsCareersSection6 />
-        <SectionsCareersSection7 />
+        <SectionsTemplateCareersSection1 />
+        <SectionsTemplateCareersSection2 />
+        <SectionsTemplateCareersSection3 />
+        <SectionsTemplateCareersSection4 />
+        <SectionsTemplateCareersSection5 />
+        <SectionsTemplateCareersSection6 />
+        <SectionsTemplateCareersSection7 />
     </div>
 </template>
 

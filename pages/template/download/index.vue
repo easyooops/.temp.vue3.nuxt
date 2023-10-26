@@ -1,7 +1,7 @@
 <template>
     <div>
-        <SectionsDownloadSection1 />
-        <SectionsDownloadSection2 />
+        <SectionsTemplateDownloadSection1 />
+        <SectionsTemplateDownloadSection2 />
     </div>
 </template>
 

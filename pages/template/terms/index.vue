@@ -1,6 +1,6 @@
 <template>
     <div>
-        <SectionsTermsSection1 />
+        <SectionsTemplateTermsSection1 />
     </div>
 </template>
 

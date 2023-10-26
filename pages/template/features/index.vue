@@ -1,20 +1,20 @@
 <template>
     <div>
-        <SectionsFeaturesSection1 />
-        <SectionsFeaturesSection2 />
-        <SectionsFeaturesSection3 />
-        <SectionsFeaturesSection4 />
-        <SectionsFeaturesSection5 />
-        <SectionsFeaturesSection6 />
-        <SectionsFeaturesSection7 />
-        <SectionsFeaturesSection8 />
-        <SectionsFeaturesSection9 />
-        <SectionsFeaturesSection10 />
-        <SectionsFeaturesSection11 />
-        <SectionsFeaturesSection12 />
-        <SectionsFeaturesSection13 />
-        <SectionsFeaturesSection14 />
-        <SectionsFeaturesSection15 />
+        <SectionsTemplateFeaturesSection1 />
+        <SectionsTemplateFeaturesSection2 />
+        <SectionsTemplateFeaturesSection3 />
+        <SectionsTemplateFeaturesSection4 />
+        <SectionsTemplateFeaturesSection5 />
+        <SectionsTemplateFeaturesSection6 />
+        <SectionsTemplateFeaturesSection7 />
+        <SectionsTemplateFeaturesSection8 />
+        <SectionsTemplateFeaturesSection9 />
+        <SectionsTemplateFeaturesSection10 />
+        <SectionsTemplateFeaturesSection11 />
+        <SectionsTemplateFeaturesSection12 />
+        <SectionsTemplateFeaturesSection13 />
+        <SectionsTemplateFeaturesSection14 />
+        <SectionsTemplateFeaturesSection15 />
     </div>
 </template>
 

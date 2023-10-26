@@ -1,7 +1,7 @@
 <template>
     <div>
-        <SectionsSinglePostSection1 />
-        <SectionsSinglePostSection2 />
+        <SectionsTemplateSinglePostSection1 />
+        <SectionsTemplateSinglePostSection2 />
     </div>
 </template>
 

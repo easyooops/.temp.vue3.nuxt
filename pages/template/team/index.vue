@@ -1,9 +1,9 @@
 <template>
     <div>
-        <SectionsTeamSection1 />
-        <SectionsTeamSection2 />
-        <SectionsTeamSection3 />
-        <SectionsTeamSection4 />
+        <SectionsTemplateTeamSection1 />
+        <SectionsTemplateTeamSection2 />
+        <SectionsTemplateTeamSection3 />
+        <SectionsTemplateTeamSection4 />
     </div>
 </template>
 

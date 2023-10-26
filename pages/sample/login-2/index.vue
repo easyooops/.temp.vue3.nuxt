@@ -1,6 +1,6 @@
 <template>
     <div>
-        <SectionsTemplateLogin1Section1 />
+        <SectionsLogin2Section1 />
     </div>
 </template>
 

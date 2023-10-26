@@ -1,6 +1,6 @@
 <template>
     <div>
-        <SectionsCookiesSection1 />
+        <SectionsTemplateCookiesSection1 />
     </div>
 </template>
 

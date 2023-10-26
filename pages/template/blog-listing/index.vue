@@ -1,8 +1,8 @@
 <template>
     <div>
-        <SectionsBlogListingSection1 />
-        <SectionsBlogListingSection2 />
-        <SectionsBlogListingSection3 />
+        <SectionsTemplateBlogListingSection1 />
+        <SectionsTemplateBlogListingSection2 />
+        <SectionsTemplateBlogListingSection3 />
     </div>
 </template>
 

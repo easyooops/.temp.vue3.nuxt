@@ -1,6 +1,6 @@
 <template>
     <div>
-        <SectionsResetPasswordSection1 />
+        <SectionsTemplateResetPasswordSection1 />
     </div>
 </template>
 

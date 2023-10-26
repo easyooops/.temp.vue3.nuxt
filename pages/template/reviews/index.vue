@@ -1,8 +1,8 @@
 <template>
     <div>
-        <SectionsReviewsSection1 />
-        <SectionsReviewsSection2 />
-        <SectionsReviewsSection3 />
+        <SectionsTemplateReviewsSection1 />
+        <SectionsTemplateReviewsSection2 />
+        <SectionsTemplateReviewsSection3 />
     </div>
 </template>
 

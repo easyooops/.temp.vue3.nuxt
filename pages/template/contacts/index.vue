@@ -1,7 +1,7 @@
 <template>
     <div>
-        <SectionsContactsSection1 />
-        <SectionsContactsSection2 />
+        <SectionsTemplateContactsSection1 />
+        <SectionsTemplateContactsSection2 />
     </div>
 </template>
 
